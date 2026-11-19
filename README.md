@@ -19,6 +19,7 @@ Hago herramientas y datos abiertos que funcionan sin servidor, sin rastreadores 
 | [enllano-datos](https://github.com/lluis-ridao/enllano-datos) | Datos abiertos de España que se actualizan solos cada día: software libre, energía, privacidad · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24165630.svg)](https://doi.org/10.5281/zenodo.24165630) |
 | [bcndades-seguiments](https://github.com/lluis-ridao/bcndades-seguiments) | Seguimientos diarios de «La ciutat avui» en [bcndades.cat](https://bcndades.cat): Barcelona explicada con datos |
 | [sistema-hijo](https://github.com/lluis-ridao/sistema-hijo) | Interfaz para Linux que reúne Claude, ChatGPT y Gemini en una sola ventana |
+| [Snake](https://github.com/lluis-ridao/Snake) | El clásico juego de la serpiente en un solo HTML, sin anuncios ni rastreadores · [jugar](https://lluis-ridao.github.io/Snake/) |
 
 ### 📊 Datos abiertos
 
