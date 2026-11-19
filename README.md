@@ -20,6 +20,8 @@ Hago herramientas y datos abiertos que funcionan sin servidor, sin rastreadores 
 | [bcndades-seguiments](https://github.com/lluis-ridao/bcndades-seguiments) | Seguimientos diarios de «La ciutat avui» en [bcndades.cat](https://bcndades.cat): Barcelona explicada con datos |
 | [sistema-hijo](https://github.com/lluis-ridao/sistema-hijo) | Interfaz para Linux que reúne Claude, ChatGPT y Gemini en una sola ventana |
 | [Snake](https://github.com/lluis-ridao/Snake) | El clásico juego de la serpiente en un solo HTML, sin anuncios ni rastreadores · [jugar](https://lluis-ridao.github.io/Snake/) |
+| [profundidad-de-campo](https://github.com/lluis-ridao/profundidad-de-campo) | Calculadora de profundidad de campo e hiperfocal para fotógrafos · [usarla](https://lluis-ridao.github.io/profundidad-de-campo/) |
+| [quiz-datos-espana](https://github.com/lluis-ridao/quiz-datos-espana) | Quiz «¿Cuánto sabes de España en datos?» con cifras oficiales y su fuente, en directo desde la API de DatosClaros · [jugar](https://lluis-ridao.github.io/quiz-datos-espana/) |
 
 ### 📊 Datos abiertos
 
