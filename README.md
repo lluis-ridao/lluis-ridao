@@ -1,8 +1,15 @@
 # Hola, soy Lluís Ridao 👋
 
-Fotógrafo de calle, retrato y autorretrato en Barcelona, y administrador de sistemas. Hago herramientas y datos abiertos que funcionan sin servidor, sin rastreadores y sin pedirte que subas nada.
+**El Creador con Sistemas** · Fotógrafo de calle, retrato y autorretrato en Barcelona, y administrador de sistemas.
 
-**Fotógrafo que experimenta con IA sin perder la mirada.**
+Hago herramientas y datos abiertos que funcionan sin servidor, sin rastreadores y sin pedirte que subas nada. **Fotógrafo que experimenta con IA sin perder la mirada.**
+
+### 📈 Proyecto destacado: DatosClaros
+
+[datosclaros.es](https://www.datosclaros.es) explica los datos públicos de España (empleo, pensiones, sanidad, inflación, vivienda, demografía…) con gráficos y calculadoras. Cada cifra enlaza a su fuente oficial (INE, Seguridad Social, Ministerio de Sanidad, Banco de España…) y lo que no se puede comprobar no se publica. Independiente de cualquier partido.
+
+- Calculadoras: [simulador de pensión](https://www.datosclaros.es/simulador-pension/) · [alquilar o comprar](https://www.datosclaros.es/alquilar-o-comprar/) · [IRPF por comunidad](https://www.datosclaros.es/irpf-por-comunidad/) · [cuánto vale hoy tu dinero](https://www.datosclaros.es/inflacion-real/)
+- Datos reutilizables: cada sección se descarga en CSV y JSON, y hay una API abierta sin clave: `https://www.datosclaros.es/wp-json/datosclaros/v1/datos/{seccion}` (por ejemplo, [`inflacion`](https://www.datosclaros.es/wp-json/datosclaros/v1/datos/inflacion))
 
 ### 🛠️ Proyectos
 
@@ -26,5 +33,7 @@ Fotógrafo de calle, retrato y autorretrato en Barcelona, y administrador de sis
 - ✉️ Newsletter: [lluisridao.substack.com](https://lluisridao.substack.com)
 - ▶️ YouTube: [@lluisridao_videos](https://www.youtube.com/@lluisridao_videos)
 
+¿Necesitas un informe de datos a medida o una herramienta para tu web? Escríbeme a [hola@lluisridao.com](mailto:hola@lluisridao.com).
+
 ---
-Linux · Python · JavaScript · WordPress · datos abiertos · fotografía
+Linux · Python · JavaScript · PHP · WordPress · APIs del INE · datos abiertos · fotografía
