@@ -22,6 +22,7 @@ Hago herramientas y datos abiertos que funcionan sin servidor, sin rastreadores 
 | [Snake](https://github.com/lluis-ridao/Snake) | El clásico juego de la serpiente en un solo HTML, sin anuncios ni rastreadores · [jugar](https://lluis-ridao.github.io/Snake/) |
 | [profundidad-de-campo](https://github.com/lluis-ridao/profundidad-de-campo) | Calculadora de profundidad de campo e hiperfocal para fotógrafos · [usarla](https://lluis-ridao.github.io/profundidad-de-campo/) |
 | [quiz-datos-espana](https://github.com/lluis-ridao/quiz-datos-espana) | Quiz «¿Cuánto sabes de España en datos?» con cifras oficiales y su fuente, en directo desde la API de DatosClaros · [jugar](https://lluis-ridao.github.io/quiz-datos-espana/) |
+| [barri-a-barri](https://github.com/lluis-ridao/barri-a-barri) | Puzzle de los 73 barrios de Barcelona con datos abiertos: encájalos en el mapa y adivina cuál es más grande. Linux, Windows y navegador · [jugar](https://lluis-ridao.github.io/barri-a-barri/) |
 
 ### 📊 Datos abiertos
 
@@ -39,4 +40,4 @@ Hago herramientas y datos abiertos que funcionan sin servidor, sin rastreadores 
 ¿Necesitas un informe de datos a medida o una herramienta para tu web? Escríbeme a [hola@lluisridao.com](mailto:hola@lluisridao.com).
 
 ---
-Linux · Python · JavaScript · PHP · WordPress · APIs del INE · datos abiertos · fotografía
+Linux · Python · pygame · JavaScript · PHP · WordPress · APIs del INE · datos abiertos · fotografía
